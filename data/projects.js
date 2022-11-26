@@ -45,3 +45,5 @@ export const projects = [
     is_featured: false,
   },
 ];
+
+/*when we change true to false, the featured project heading disappears. */
